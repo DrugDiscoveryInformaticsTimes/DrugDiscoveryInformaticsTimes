@@ -4,9 +4,13 @@
 
 ### 著者/所属
 
-### 投稿日付(yyyy/MM/dd)
+### Submited date/Received date (yyyy/MM/dd)
 
-### 学会（提出・採択）・ジャーナルのCitation
+### Published date (yyyy/MM/dd)
+
+### Citation
+
+### Creative Commons
 
 ## 概要
 

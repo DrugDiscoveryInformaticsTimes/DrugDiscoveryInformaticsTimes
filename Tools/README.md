@@ -18,25 +18,33 @@
 
 ## Genenerative model
 
-* MolGAN
+### 
+
+* MolGAN 
   * [Paper](https://arxiv.org/abs/1805.11973)
   * [GitHub](https://github.com/nicola-decao/MolGAN)
 
+### 
 
-* [chemical VAE]()
+* chemical VAE
   * [Paper](https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00572) 
   * [GitHub](https://github.com/aspuru-guzik-group/chemical_vae)
 
+
 ## Molecular string representation
+
+###
 
 * [SELFIES](https://selfies.readthedocs.io/en/latest/)
   * [Paper](https://iopscience.iop.org/article/10.1088/2632-2153/aba947)
   * [GitHub](https://github.com/aspuru-guzik-group/selfies)
 
+###
+
 * [BigSMILES](https://olsenlabmit.github.io/BigSMILES/docs/line_notation.html#the-bigsmiles-line-notation)
   * [Paper](https://pubs.acs.org/doi/10.1021/acscentsci.9b00476)
   * [GitHub](https://github.com/olsenlabmit/bigSMILES)
 
-## Drug-Target Interaction (DTI) Prediction
+## Drug-Target Interaction (DTI) prediction
 
-## Drug-Target affinity (DTI) Prediction
+## Drug-Target affinity (DTI) prediction

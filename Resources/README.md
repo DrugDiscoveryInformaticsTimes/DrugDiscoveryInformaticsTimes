@@ -5,11 +5,16 @@
 ## Datasets 
 
 * [DUD](http://dud.docking.org/)
-
 * [DUD-E](http://dude.docking.org/)
 
 ## Databases
 
-* [ZINC database](https://zinc20.docking.org/)
+### Small molecule
 
+* [ZINC database](https://zinc20.docking.org/)
 * [Quantum-Machine.org](http://www.quantum-machine.org/)
+
+### Protein-Protein inhibitor/stabilizer
+
+* [iPPI-DB](https://ippidb.pasteur.fr/)
+* [TIMBAL](http://mordred.bioc.cam.ac.uk/timbal/)

@@ -58,4 +58,4 @@ DeepMindとEMBL-EBIが提携して作成した、ヒトプロテオームと他�
 ### Genome
 
 * [ENCODE](https://www.encodeproject.org/)  
-ENCODEは、ヒトゲノムの機能的な領域を包括的なリストにまとめたデータベース。様々な細胞種でChIP-seq, RNA-seq, DNase-seq, ATAC-seqなどゲノムの機能的領域を捉える手法の結果、サンプル概要、実験条件、replicon, 解析フローなどがまとめられている。
+ENCODEは、ヒトゲノムの機能的な領域を包括的なリストにまとめたデータベース。様々な細胞種でChIP-seq, RNA-seq, DNase-seq, ATAC-seqなどゲノムの機能的領域を捉える手法の結果、サンプル概要、実験条件、replicon, 解析フローなどがまとめられている。

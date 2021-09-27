@@ -51,3 +51,11 @@ PPI阻害剤・安定剤のバイオアッセイが行われた論文から手�
 
 * [PDB](https://www.rcsb.org/)  
 タンパク質と核酸の3次元構造データのデータベース
+
+* [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)  
+DeepMindとEMBL-EBIが提携して作成した、ヒトプロテオームと他の20種の主要生物のタンパク質構造予測データベース。今後、UniRef90に掲載されている1億以上のタンパク質の大部分をカバーするようにデータベースを拡張される予定。
+
+### Genome
+
+* [ENCODE](https://www.encodeproject.org/)  
+ENCODEは、ヒトゲノムの機能的な領域を包括的なリストにまとめたデータベース。様々な細胞種でChIP-seq, RNA-seq, DNase-seq, ATAC-seqなどゲノムの機能的領域を捉える手法の結果、サンプル概要、実験条件、replicon, 解析フローなどがまとめられている。

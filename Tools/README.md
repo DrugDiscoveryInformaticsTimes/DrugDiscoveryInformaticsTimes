@@ -2,6 +2,12 @@
 
 創薬に関連する研究を行う際によく使われるフレームワークやツールについてまとめています。
 
+## Translate tool 
+
+IUPAC to SMILESとIUPAC to InChIができるツール
+* [OPSIN](https://opsin.ch.cam.ac.uk/)
+  * [GitHub](https://github.com/dan2097/opsin) 
+
 ## Docking
 
 ### Protein - small molecule

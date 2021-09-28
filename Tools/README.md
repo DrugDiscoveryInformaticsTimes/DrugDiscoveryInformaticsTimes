@@ -5,7 +5,7 @@
 ## Translate tool 
 
 IUPAC to SMILESとIUPAC to InChIができるツール
-* [OPSIN](https://opsin.ch.cam.ac.uk/)
+* [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk/)
   * [GitHub](https://github.com/dan2097/opsin) 
 
 ## Docking

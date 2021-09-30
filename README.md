@@ -28,7 +28,7 @@
   * この論文を一言でいうと
   * 論文リンク
   * 著者/所属機関 ※論文からのコピペでOKです（全ての著者、全ての所属機関を記載して下さい。）。
-  * Submited date/Received date  Submission dateです。プレプリントに関しては、versionがあれば最新versionの再投稿の日付を記載の上、yyyy/MM/dd (v2)の様な形式でお願いします。登録時点で、学会提出が分かる場合は併せて記載いただけるとありがたいです(NIPS 2021など)。ジャーナルの場合Submssion date (Received date)が分かりづらいこともあるので、その場合はPublished dateのみOKです。
+  * Submited date/Received date  Submission dateです。プレプリントに関しては、versionがあれば最新versionの再投稿の日付を記載の上、yyyy/MM/dd (v2)の様な形式でお願いします。登録時点で、学会提出が分かる場合は併せて記載いただけるとありがたいです(NIPS 2021など)。ジャーナルの場合Submssion date (Received date)が分かりづらいこともあるので、その場合はPublished dateのみOKです。
   * Published date OAの場合のみで、Published dateです。yyyy/MM/ddの形式でお願いします。
   * Citation 適宜論文に記載されている適切なCitationも合わせ記載して下さい。
   * Creative Commons 必ず投稿する論文が指定するクリエイティブ・コモンズのリンクを貼って下さい。例えば以下のような形で`![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)`のようにして画像が出るようにしてください。

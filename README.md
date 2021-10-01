@@ -1,4 +1,6 @@
 # DrugDiscoveryInformaticsTimes
+![Papers](https://img.shields.io/github/issues/DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes.svg)
+
 
 創薬・バイオインフォマティクス・ケモインフォマティクス関係の論文を調査し、共有するためのリポジトリです。
 

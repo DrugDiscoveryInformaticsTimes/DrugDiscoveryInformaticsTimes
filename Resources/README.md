@@ -13,6 +13,9 @@ DUDにはdecoyにactive化合物が含まれている、ターゲットが少な
 * [MOSES](https://github.com/molecularsets/moses)
 SMILESなどの配列ベースのGenerative modelを評価するためのデータセット。いくつかの複数の手法との比較ができる。
 
+* [protein-protein interaction benchmarks: Docking benchmark](https://zlab.umassmed.edu/benchmark/)
+複合体と単体のいずれも構造がわかっているタンパク質のデータセット。 タンパク質複合体のドッキング予測モデルのベンチマークに使える。
+
 ## Databases
 
 ### Small molecule
@@ -53,7 +56,7 @@ PPI阻害剤・安定剤のバイオアッセイが行われた論文から手�
 タンパク質と核酸の3次元構造データのデータベース
 
 * [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)  
-DeepMindとEMBL-EBIが提携して作成した、ヒトプロテオームと他の20種の主要生物のタンパク質構造予測データベース。今後、UniRef90に掲載されている1億以上のタンパク質の大部分をカバーするようにデータベースを拡張される予定。
+DeepMindとEMBL-EBIが提携して作成した、ヒトプロテオームと他の20種の主要生物のタンパク質構造予測データベース。今後、UniRef90に掲載されている1億以上のタンパク質の大部分をカバーするようにデータベースを拡張される予定。 
 
 ### Genome
 
